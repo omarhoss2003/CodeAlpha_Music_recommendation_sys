@@ -1,4 +1,4 @@
-# CodeAlpha_Music_recommendation_sys
+# Music_recommendation_sys
 
 Music Recommendation System
 
